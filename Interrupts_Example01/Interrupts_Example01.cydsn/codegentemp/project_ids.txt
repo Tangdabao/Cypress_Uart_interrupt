@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\Temporary Files\CY_interruped\Interrupts_Example01\Interrupts_Example01.cydsn\Interrupts_Example01.cyprj|9b0ded2d-cf1e-4d76-bcb4-94c33f1b6796
+D:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|00645a7a-3627-4f53-bcf9-589fd6c94512
+D:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|bd2a3c34-fc89-4371-8a44-ccc7886915e4
+D:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|7093edff-537c-44c1-b8ea-832baa854d3c
+D:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|88c71f9a-a937-4fe0-8e1a-888e7a8fe7fe
+D:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\dev\psoc4\PSoC4AnalogDevice\psoc4arch.cydsn\psoc4arch.cyprj|c9439eb7-7c26-4243-b790-17209a254144
+D:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\default\CyReferenceLibrary\CyReferenceLibrary.cylib\CyReferenceLibrary.cyprj|5f62a148-ee39-474a-a673-15ddfa57795a

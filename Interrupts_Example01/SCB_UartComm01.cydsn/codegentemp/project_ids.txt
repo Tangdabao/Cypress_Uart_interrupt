@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\Temporary Files\CY_interruped\Interrupts_Example01\Interrupts_Example01.cydsn\Interrupts_Example01.cyprj|1f09e950-16c6-4532-b701-e1832172945d
+D:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|1038dc1a-3000-4c42-b233-b44c2c43f551
+D:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|8531d6c2-b667-425f-8e6e-1142f77bff22
+D:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|e10123dd-8548-4736-9f73-32ef113b5530
+D:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|60169d22-0c3e-4a6d-93bb-db98dc96bd48
+D:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\default\CyReferenceLibrary\CyReferenceLibrary.cylib\CyReferenceLibrary.cyprj|f8cac1dd-8d8d-4221-a0cd-952ef9d4d9da
+C:\Users\Administrator\Desktop\Temporary Files\CY_interruped\Interrupts_Example01\SCB_UartComm01.cydsn\SCB_UartComm01.cyprj|a6cb4051-4dda-4609-9fa7-03ad2e155e8e
