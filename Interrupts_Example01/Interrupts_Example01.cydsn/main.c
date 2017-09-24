@@ -78,9 +78,9 @@ int main()
     ISRGPIO_SetPriority(DEFAULT_PRIORITY);
 
     /* Sets up the nested interrupt, sets priority and enables it */
-    //CyIntSetVector(NESTED_ISR,NestedIsrHandler);
-    //CyIntSetPriority(NESTED_ISR,HIGHER_PRIORITY);
-    //CyIntEnable(NESTED_ISR);
+    CyIntSetVector(NESTED_ISR,NestedIsrHandler);
+    CyIntSetPriority(NESTED_ISR,HIGHER_PRIORITY);
+    CyIntEnable(NESTED_ISR);
 
     //CyIntSetVector(Uartset_ISR,UART_1_SCB_IRQ_Interrupt);
     //CyIntSetPriority(Uartset_ISR,HIGHE_H_PRIORITY);
